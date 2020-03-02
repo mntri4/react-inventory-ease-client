@@ -24,7 +24,7 @@ export default function LandingPage() {
                 <h2 className="landingHeader">-Sign up to get started!-</h2>
                 <p>Increase sales productivity and customer experience.</p>
             </section>
-            <div className="copyright" aria-live="assertive">Copyright Andrew Blake 2018</div>
+            <div className="copyright" aria-live="assertive">Copyright Mario Martinez 2020</div>
             <Footer />
         </div>
     );
