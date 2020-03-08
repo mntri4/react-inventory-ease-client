@@ -7,6 +7,40 @@ Application for use by car dealerships and their personnel to track, add, update
 
 https://murmuring-caverns-85624.herokuapp.com/
 
+Method:
+
+GET | POST | DELETE | PUT
+
+URL Params
+
+Required:
+
+id=[integer]
+
+Optional:
+
+photo_id=[alphanumeric]
+
+Data Params
+
+
+Success Response:
+
+
+Code: 200
+Content: { id : 12 }
+Error Response:
+
+Code: 401 UNAUTHORIZED
+Content: { error : "Log in" }
+OR
+
+Code: 422 UNPROCESSABLE ENTRY
+Content: { error : "Email Invalid" }
+Sample Call:
+
+Notes:
+>
 
 <h2>Technologies Used</h2>
 <h2>Front End</h2>
