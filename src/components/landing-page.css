@@ -8,7 +8,7 @@ main {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;  
+  background-size: 600px 300px;  
   min-height: 100%;
   height: 100%; 
   margin: 0;

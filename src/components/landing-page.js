@@ -18,6 +18,10 @@ export default function LandingPage() {
             
             <header role="banner">
                 <h2 className="landingTitle">Streamline your auto dealerships inventory by personnel tracking: YEAR, MAKE, MODEL, MILEAGE, PARKING LOCATION AND deleting vehicle info.</h2>
+                
+                
+                
+                
                 <h2>Tracking vehicles will decrease lag time.</h2>
                 <h2>Less waiting!!</h2> 
             </header>
