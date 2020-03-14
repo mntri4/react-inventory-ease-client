@@ -5,7 +5,7 @@ Application for use by car dealerships and their personnel to track, add, update
 
 <h2>Link to live App</h2>
 
-https://murmuring-caverns-85624.herokuapp.com/
+https://y-sigma.now.sh/
 
 Method:
 
