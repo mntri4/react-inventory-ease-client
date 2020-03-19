@@ -5,7 +5,7 @@ Application for use by car dealerships and their personnel to track, add, update
 
 <h2>Link to live App</h2>
 
-https://react-inventory-ease-client-jfyepprvz.now.sh/
+https://build.mntri4.now.sh/
 
 Method:
 
